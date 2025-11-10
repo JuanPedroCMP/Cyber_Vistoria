@@ -1,0 +1,8 @@
+{
+  "name": "Cyber Vistoria",
+  "description": "Um aplicativo inteligente para realizar vistorias de imóveis, capturando imagens e gerando laudos detalhados com transcrição de voz e resumos de IA.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
